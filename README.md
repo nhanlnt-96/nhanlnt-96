@@ -223,7 +223,7 @@
 </div>
 
 <h2>Github Profile Stats</h2>
-<div>
+<div style="display: flex; flex-direction: column; row-gap: 14px">
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=nhanlnt-96&show_icons=true&locale=en&hide_progress=true"
