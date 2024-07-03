@@ -223,27 +223,33 @@
 </div>
 
 <h2>Github Profile Stats</h2>
-<div style='display: flex; flex-direction: column'>
+<div>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=nhanlnt-96&show_icons=true&locale=en&hide_progress=true"
     alt="nhanlnt-96"
-    style="width: 100%; max-width: 35%; margin-bottom: 12px"
+    width='35%'
   />
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api?username=nhanlnt-96&show_icons=true&locale=en"
     alt="nhanlnt-96"
-    style="width: 100%; max-width: 35%; margin-bottom: 12px"
+    width='35%'
   />
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=nhanlnt-96&"
     alt="nhanlnt-96"
-    style="width: 100%; max-width: 35%; margin-bottom: 12px"
+    width='35%'
   />
 </div>
 
-<h2 align="left">Github Profile Trophy:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.
-vercel.app/?username=nhanlnt-96&margin-w=16&margin-h=16" alt="nhanlnt-96" /></a> </p>
+<h2 align="left">Github Profile Trophy:</h2>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=nhanlnt-96&margin-w=16&margin-h=16"
+      alt="nhanlnt-96"
+    />
+  </a>
+</p>
