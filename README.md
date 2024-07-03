@@ -3,12 +3,12 @@
   A passionate fullstack developer from Viet Nam
 </h3>
 <div id="badges" align="center">
-  <a href="https://dev.to/nhanlnt" target="blank">
+<!--   <a href="https://dev.to/nhanlnt" target="blank">
     <img
       src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"
       alt="Dev.to Badge"
     />
-  </a>
+  </a> -->
   <a href="https://linkedin.com/in/nhanlnt" target="blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
