@@ -223,24 +223,24 @@
 </div>
 
 <h2>Github Profile Stats</h2>
-<div style="display: flex; flex-direction: column; row-gap: 14px">
+<div>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=nhanlnt-96&show_icons=true&locale=en&hide_progress=true"
     alt="nhanlnt-96"
-    width='35%'
+    width='100%'
   />
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api?username=nhanlnt-96&show_icons=true&locale=en"
     alt="nhanlnt-96"
-    width='35%'
+    width='100%'
   />
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=nhanlnt-96&"
     alt="nhanlnt-96"
-    width='35%'
+    width='100%'
   />
 </div>
 
