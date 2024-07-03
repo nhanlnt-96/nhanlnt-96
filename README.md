@@ -228,19 +228,19 @@
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=nhanlnt-96&show_icons=true&locale=en&hide_progress=true"
     alt="nhanlnt-96"
-    width='200px'
+    width='300px'
   />
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api?username=nhanlnt-96&show_icons=true&locale=en"
     alt="nhanlnt-96"
-    width='200px'
+    width='300px'
   />
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=nhanlnt-96&"
     alt="nhanlnt-96"
-    width='200px'
+    width='300px'
   />
 </div>
 
