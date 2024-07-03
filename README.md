@@ -225,22 +225,23 @@
 <h2>Github Profile Stats</h2>
 <div>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=nhanlnt-96&show_icons=true&locale=en&hide_progress=true"
     alt="nhanlnt-96"
-    width='300px'
   />
+</div>
+<div>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api?username=nhanlnt-96&show_icons=true&locale=en"
     alt="nhanlnt-96"
-    width='300px'
   />
+</div>
+<div>
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=nhanlnt-96&"
     alt="nhanlnt-96"
-    width='300px'
   />
 </div>
 
