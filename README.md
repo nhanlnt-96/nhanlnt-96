@@ -230,6 +230,7 @@
     alt="nhanlnt-96"
   />
 </div>
+<br>
 <div>
   <img
     align="center"
@@ -237,6 +238,7 @@
     alt="nhanlnt-96"
   />
 </div>
+<br>
 <div>
   <img
     align="center"
