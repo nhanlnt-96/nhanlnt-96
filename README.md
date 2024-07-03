@@ -36,10 +36,10 @@
     👨‍💻 All of my projects are available at
     <a href="https://jay-le-porfolio.web.app/" target="_blank">my portfolio</a>
   </li>
-  <li>
+<!--   <li>
     📝 I regularly write articles on
     <a href="https://dev.to/nhanlnt" target="_blank">dev.to</a>
-  </li>
+  </li> -->
   <li>
     📫 How to reach me
     <a href="mailto:nhanlnt@hotmail.com" target="_blank">email</a>
