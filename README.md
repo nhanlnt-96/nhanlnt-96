@@ -47,7 +47,7 @@
   <li>
     📄 Know about my experiences
     <a
-      href="https://drive.google.com/file/d/15V1Ndr3-6z9LUfKnz0DXtDpGvTW4jB5A/view?usp=sharing"
+      href="https://drive.google.com/file/d/1dTSeEV9J-w0-cEqYi2b_-n0SncepMiqU/view"
       target="_blank"
       >here
     </a>
